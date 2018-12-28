@@ -1,0 +1,8 @@
+<templateSet group="user">
+  <template name="getgeo" value="echo AfluentaContext::getConfig()-&gt;getCurrentGeo();" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP Expression" value="true" />
+      <option name="PHP Statement" value="true" />
+    </context>
+  </template>
+</templateSet>

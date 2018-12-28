@@ -1,0 +1,43 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="ActivateDatabaseToolWindow">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="BaseOnThisFunction" />
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="Console.Open">
+    <keyboard-shortcut first-keystroke="shift meta f10" />
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.Reload" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta o" />
+    <keyboard-shortcut first-keystroke="meta p" />
+  </action>
+  <action id="HideAllWindows">
+    <keyboard-shortcut first-keystroke="shift meta f12" />
+    <keyboard-shortcut first-keystroke="meta 0" />
+  </action>
+  <action id="ParameterInfo" />
+  <action id="Refresh" />
+  <action id="Replace" />
+  <action id="Rerun" />
+  <action id="SplitHorizontally">
+    <keyboard-shortcut first-keystroke="ctrl h" />
+  </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+  </action>
+  <action id="TypeHierarchy" />
+  <action id="TypeHierarchyBase.BaseOnThisType" />
+  <action id="Uml.ShowDiff" />
+  <action id="Vcs.Log.Refresh" />
+  <action id="Vcs.QuickListPopupAction" />
+  <action id="hg4idea.QRefresh" />
+</keymap>
